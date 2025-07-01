@@ -18,3 +18,6 @@ Figma (For wireframing and designing)
 HTML/CSS (For implementation)
 JavaScript (For interactive elements)
 
+## 🎨 Figma Design Link
+
+[Click here to view the Portfolio Design on Figma]([https://www.figma.com/design/9nBVYRzRWC73eSiH66Gvrc/PORTFOLIO?node-id=0-1](https://www.figma.com/proto/9nBVYRzRWC73eSiH66Gvrc/PORTFOLIO?node-id=0-1&t=XljpkY0zPDxKpuue-1))
